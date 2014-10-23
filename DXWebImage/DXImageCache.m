@@ -1,9 +1,9 @@
 //
 //  ERImageCache.m
-//  ScrollView
 //
-//  Created by TalkWeb on 14-10-18.
-//  Copyright (c) 2014年 TalkWeb. All rights reserved.
+//
+//  Created by Bindx on 14-10-18.
+//  Copyright (c) 2014年 Bindx. All rights reserved.
 //
 
 #import "DXImageCache.h"
